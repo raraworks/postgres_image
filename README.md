@@ -1,0 +1,1 @@
+This repository acts as a plug-in for postgres official images, but includes the ability to define default postgres locale
